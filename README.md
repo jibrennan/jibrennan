@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jibrennan
-- 👀 I’m interested in recurring revenue, entitlemtents, API integration and building useful solutions from what's already available. 
-- 🌱 I’m currently learning everything. I have a strong background in LMR and I'm building my background in business. I'm very much a beginner with massive personal goals. 
-- 💞️ I’m looking to collaborate on anything useful and potentially profitible. 
+- 👀 I’m interested in recurring revenue, entitlemtents, API integration and building useful solutions for the LMR market from what's already available. 
+- 🌱 I’m currently learning HTML, websockets, REST, Angular, SIP, Android, C++, and JS. 
+- 💞️ I’m looking to collaborate on anything useful and potentially profitable. 
 - 📫 How to reach me ... 
 
 <!---
