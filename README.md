@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jibrennan
 - 👀 I’m interested in recurring revenue, entitlemtents, API integration and building useful solutions for the LMR market from what's already available. 
-- 🌱 I’m currently learning HTML, websockets, REST, Angular, SIP, Android, C++, and JS. 
+- 🌱 I’m currently learning HTML, websockets, REST, Angular, SIP, Android, C++, Python and JS as they pertain to the integration of machine learning, SDR technology, voice analytics, and common businesss tools.   
 - 💞️ I’m looking to collaborate on anything useful and potentially profitable. 
 - 📫 How to reach me ... 
 
