@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @jibrennan
-- 👀 I’m interested in recurring revenue, entitlemtents, API integration and building useful solutions for the LMR market from what's already available. 
-- 🌱 I’m currently learning HTML, websockets, REST, Angular, SIP, Android, C++, Python and JS as they pertain to the integration of machine learning, SDR technology, voice analytics, and common businesss tools.   
-- 💞️ I’m looking to collaborate on anything useful and potentially profitable. 
-- 📫 How to reach me ... 
+- 👀 I get stuff from github for my personal projects all of the time, but I have no idea how it really works. Now that I have a lot of personal projects to manage I've decided to learn it. 
 
 <!---
 jibrennan/jibrennan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
