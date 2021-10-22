@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jibrennan
-- 👀 I have a few projects that I'm keeping track of here. I'm a product manager, not a professional developer, but like to explore how to integrate what I sell with what you sell and see how we can make money together.  
+- 👀 I have a few projects that I'm keeping track of here. I'm a product manager, not a professional developer, but like to explore how to integrate what I sell. 
 
 <!---
 jibrennan/jibrennan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
